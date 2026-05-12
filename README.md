@@ -28,3 +28,8 @@ To connect to the machine via SSH, please send us your public key.
 | **Marco Salvemini** | University of Naples Federico II, IT | [📁 materials](Marco_Salvemini) |
 | **Matthias Steinrücken** | The University of Chicago, US | [📁 materials](Matthias_Steinrucken) |
 | **Daniel Wegmann** | University of Fribourg, CH | [📁 materials](Daniel_Wegmann) |
+
+## 🖼️ Poster Sessions
+
+You can find the list of posters in the dedicated folder:
+* [Browse Posters](Posters)
