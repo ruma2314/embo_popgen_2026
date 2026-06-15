@@ -11,8 +11,8 @@ Basic knowledge of **Unix**, **Python**, and **R** is required. Unless you are f
 ## Server Access & Connections
 For this course, we will work on the High Performance Cluster. To connect to the machine via SSH, please send us your public key.
 
-* [Instructions on how to create your public key](EMBO_RECAS_SSH_keypair.pdf)
-
+[Instructions on how to create your public key](EMBO_RECAS_SSH_keypair.pdf?raw=true)
+[Instructions on how to connect to the machine](connections)
 ## Repos with teaching materials
 
 | Speaker | Institution | Course Materials |
